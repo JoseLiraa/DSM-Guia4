@@ -2,7 +2,7 @@
 ### Recursos y Layouts - Java y Android Studio ☕👽
 
 - Carnet: ML161665
-- Grupo: 04L
+- Grupo: 03L
 
 ### Indice
 - [x] Guia4FirebaseLogin | Inicio de sesión y autenticación de Firebase.
