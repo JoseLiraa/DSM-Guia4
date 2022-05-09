@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379730751682",
+    "project_id": "realtimedatabase-651dd",
+    "storage_bucket": "realtimedatabase-651dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379730751682:android:eb011380330afb51c2cb5b",
+        "android_client_info": {
+          "package_name": "edu.sv.udb.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379730751682-dlvn6phvm6brd9sv7nu2uc9dm9oo0gdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATeC9wskrqJiqTJfxz1mkGrLX0k5yOYR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379730751682-dlvn6phvm6brd9sv7nu2uc9dm9oo0gdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

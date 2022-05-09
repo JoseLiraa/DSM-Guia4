@@ -6,6 +6,4 @@
 
 ### Indice
 - [x] Guia4FirebaseLogin | Inicio de sesión y autenticación de Firebase.
-
-
-
+- [x] Guia4RealTimeDataBase | Muestra, guarda, edita y elimina registros de personas.
